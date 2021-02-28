@@ -1,8 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: An inquisitive scientist who loves solving problems with data
 education:
   courses:
   - course: PhD in Ecology
@@ -20,6 +19,7 @@ interests:
 - High dimensional data
 - Snowboarding
 - Hiking
+- Cooking
 name: Jessie Au
 organizations:
 - name: University of California Davis
