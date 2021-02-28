@@ -2,11 +2,7 @@
 abstract: Landscape disturbance can cause shifts in vegetation communities, which can impact animal populations. However, the processes responsible for the cascading effects between plants and animals are often poorly understood. We demonstrate a mechanism by which landscape disturbance can impact habitat quality by altering the nutritional composition of a forest using a case-study of koalas (Phascolarctos cinereus) in Australian eucalypt forests. We used two large datasets, a detailed survey of forest tree species composition and koala occurrence across 26,000 ha of forests on the South East Coast of Australia and an extensive eucalypt nutritional quality database, to investigate relationships among tree species composition, nutritional quality, and koala occurrence. Eucalyptus sieberi, a species native to the study area, responds well to disturbance and can increasingly dominate forests after logging and/or fire. Using negative binomial models, we found that observations of koala scat decreased as the proportion of E. sieberi in an area increased beyond zero. Eucalyptus sieberi had lower available nitrogen (AvailN) and total nitrogen than most other eucalypt species, and the highest concentrations of unsubstituted B-ring flavanones, an herbivore-deterrent plant secondary metabolite for the koala. Simulations of forests with increasing proportions of E. sieberi showed that AvailN decreased from 1.1% when E. sieberi was ≤10% of all eucalypts to 0.7% AvailN when E. sieberi was the only species present. Consequently, forests dominated by E. sieberi are unlikely to support koala populations based on existing knowledge of koala nutritional requirements. Foliage nutritional quality is a critical but often overlooked element of habitat quality for leaf eating animals, and this study demonstrates how disturbance related changes in tree species composition can impact the nutritional landscape and the occurrence of folivores.
 authors:
 - admin
-- Clark, Robert G.
-Allen, Chris
-Marsh, Karen J.
-Foley, William J.
-Youngentob, Kara N.
+- Clark, Robert G., Allen, Chris, Marsh, Karen J., Foley, William J., Youngentob, Kara N.
 date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: true
