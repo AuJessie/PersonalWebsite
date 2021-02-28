@@ -44,6 +44,6 @@ user_groups:
 - Visitors
 ---
 
-I am excited to use remote sensing technology to look at the colourful and complex makeup of plants. Currently, I quantify and predict the terrestrial carbon cycle of California and I detect disease in strawberries.
+I am excited to use remote sensing technology to look into the colourful and complex composition of plants. Currently, I quantify and predict the terrestrial carbon cycle of California and I detect disease in strawberries.
 
 I have had a very mixed research history that spans ecology, earth science and  agriculture. The underlying connections between these projects are a drive to solve complex problems using an interdisciplinary approach, my love for high-dimensional data and multivariate analysis, and a want to provide clear scientific advice to stakeholders and the general public. 
