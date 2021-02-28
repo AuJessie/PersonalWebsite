@@ -16,8 +16,8 @@ education:
     year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Statistics
+- High dimension data
 - Information Retrieval
 name: Jessie Au
 organizations:
