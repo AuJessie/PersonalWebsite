@@ -5,20 +5,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Ecology
+    institution: Australian National University
+    year: 2019
+  - course: Bachelor of Science (Honours)
+    institution: Australian National University
+    year: 2013
+  # - course: BSc in Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   year: 2008
 email: ""
 interests:
 - Statistics
-- High dimension data
-- Information Retrieval
+- High dimensional data
+- Snowboarding
+- Hiking
 name: Jessie Au
 organizations:
 - name: University of California Davis
@@ -27,22 +28,22 @@ role: Postdoctoral Scholar
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jessieau_
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/nelsonbighetti/
+  link: https://scholar.google.com/citations?user=tEYGUzwAAAAJ&hl=en
+# - icon: linkedin
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/nelsonbighetti/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/AuJessie
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am excited to use remote sensing technology to look at the colourful and complex makeup of plants. Currently, I quantify and predict the terrestrial carbon cycle and I detect disease in strawberries.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I have had a very mixed research history that spans ecology, earth science and  agriculture. The underlying connections between these projects are a drive to solve complex problems using an interdisciplinary approach, my love for high-dimensional data and multivariate analysis, and a want to provide clear scientific advice to stakeholders and the general public. 
