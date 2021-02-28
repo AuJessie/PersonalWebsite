@@ -19,11 +19,11 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Jessie Au
 organizations:
-- name: Stanford University
+- name: University of California Davis
   url: ""
-role: Professor of Artificial Intelligence
+role: Postdoctoral Scholar
 social:
 - icon: twitter
   icon_pack: fab
