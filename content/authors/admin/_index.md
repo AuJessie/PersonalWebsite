@@ -15,10 +15,9 @@ education:
   #   year: 2008
 email: ""
 interests:
-- Statistics
-- High dimensional data
-- Snowboarding
-- Hiking
+- Statistics / High-dimensional data
+- Earth Science / Remote Sensing
+- Snowboarding / Hiking
 - Cooking
 name: Jessie Au
 organizations:

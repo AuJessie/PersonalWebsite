@@ -9,6 +9,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 authors:
 - admin
 - Robert Ford
+- Ross Deans
 date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
