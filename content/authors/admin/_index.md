@@ -15,11 +15,9 @@ education:
   #   year: 2008
 email: ""
 interests:
-- Statistics / High-dimensional data
-- Earth Science / Remote Sensing / Ecology
-- Mentoring / Science Outreach
-- Snowboarding / Hiking
-- Cooking / Craft Projects
+- Statistics
+- Remote Sensing / Ecology
+- Snowboarding
 name: Jessie Au
 organizations:
 - name: University of California Davis
